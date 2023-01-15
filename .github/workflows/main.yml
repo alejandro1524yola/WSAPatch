@@ -1,0 +1,9 @@
+permissions: write-all
+run-name: 
+name: 
+on: [workflow_dispatch]
+concurrency: 
+env:
+jobs:
+defaults:
+	run:
